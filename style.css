@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fefefe;
+}
+body {
+    background: #111;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+.social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
